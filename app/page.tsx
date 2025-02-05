@@ -6,6 +6,17 @@ import "./index.css"; // Ensure Tailwind CSS is properly configured locally
 const WORD_LENGTH = 5; // Length of the word to guess
 const MAX_ATTEMPTS = 6;
 
+//https://ttsmp3.com/ai
+
+//const correctSound = "https://cdn.freesound.org/previews/475/475460_7495013-lq.mp3";
+//const wrongSound = "https://cdn.freesound.org/previews/587/587253_10334845-lq.mp3";
+//const winSound = "https://cdn.freesound.org/previews/521/521638_7724198-hq.mp3";
+//const loseSound = "https://cdn.freesound.org/previews/535/535236_11754962-hq.mp3"
+const correctSound = "/sounds/correct.mp3";
+const wrongSound = "/sounds/wrong.mp3";
+const winSound = "/sounds/win.mp3";
+const loseSound = "/sounds/lose.mp3";
+
 const WordleClone = () => {
   const [guesses, setGuesses] = useState<string[]>([]);
   const [currentGuess, setCurrentGuess] = useState<string>("");

@@ -13,7 +13,8 @@ This is a **Wordle Clone** built using **React and TypeScript** with Tailwind CS
 - 🎭 **Animations**: Animated letter colors indicate correct, misplaced, and incorrect letters.
 
 ## 🚀 Demo
-[Live Demo](#) *(Add deployment link here after deployment)*
+[Live Demo](#) *((https://wordle-clone-zeta-ashy.vercel.app/))*
+https://wordle-clone-zeta-ashy.vercel.app/
 
 ## 📸 Screenshots
 *(Include game screenshots here)*
