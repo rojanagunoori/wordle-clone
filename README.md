@@ -1,5 +1,23 @@
 # 🎯 Wordle Clone (Next.js + React)
 
+## 🎥 Demo
+
+<video controls style="max-width: 100%;">
+  <source src="https://raw.githubusercontent.com/rojanagunoori/wordle-clone/main/public/wordle.mp4" type="video/mp4">
+</video>
+
+<!-- 👉 If video doesn't play, click here:
+[▶ Watch Demo](https://raw.githubusercontent.com/rojanagunoori/wordle-clone/main/public/wordle.mp4) -->
+
+---
+
+## 📸 Screenshots
+
+![Screenshot 1](https://raw.githubusercontent.com/rojanagunoori/wordle-clone/main/public/wordle1.png)
+
+![Screenshot 2](https://raw.githubusercontent.com/rojanagunoori/wordle-clone/main/public/wordle2.png)
+
+![Screenshot 3](https://raw.githubusercontent.com/rojanagunoori/wordle-clone/main/public/wordle3.png)
 A fully interactive **Wordle-inspired word guessing game** built with **Next.js 13 (App Router), React, and Tailwind CSS**.
 This project demonstrates **modern frontend development**, including state management, API integration, UI animations, and game logic design.
 
